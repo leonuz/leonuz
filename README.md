@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @leonuz
-- 👀 I’m interested in Cibersecurity
-- 🌱 I’m currently learning Programing in C and Python
+- 👀 I’m interested in Cibersecurity, Networking, Programing and Linux Administration
+- 🌱 I’m currently learning C and Python
 - 💞️ I’m looking to collaborate on Network Security 
 - 📫 How to reach me ...
 
