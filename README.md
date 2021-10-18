@@ -4,7 +4,7 @@
 - 💞️ Looking to collaborate on Network Security
 - 🎮 CTF Player  
 [TryHackMe](https://tryhackme.com)  
-![TryHackMe](CTF's/img/tryhackme.png)
+![TryHackMe](../CTF's/img/tryhackme.png)
 
 
 <!---
