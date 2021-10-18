@@ -3,8 +3,9 @@
 - 🌱 Always learning and Teaching
 - 💞️ Looking to collaborate on Network Security
 - 🎮 CTF Player  
+[TryHackMe](https://tryhackme.com)  
+![TryHackMe](CTF's/img/tryhackme.png)
 
-![THM](https://tryhackme-badges.s3.amazonaws.com/leonuz.png)
 
 <!---
 leonuz/leonuz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
