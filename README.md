@@ -3,8 +3,10 @@
 - 🌱 Always learning and Teaching
 - 💞️ Looking to collaborate on Network Security
 - 🎮 CTF Player  
-[TryHackMe](https://tryhackme.com)  
-![TryHackMe](../CTF's/img/tryhackme.png)
+
+[TryHackMe](https://tryhackme.com) Profile Badge ID  
+
+![TryHackMe](https://github.com/leonuz/CTFs/raw/main/img/tryhackme.png)
 
 
 <!---
