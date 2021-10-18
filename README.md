@@ -1,7 +1,8 @@
-- 👋 Hi, I’m @leonuz
-- 👀 I’m interested in Cibersecurity, Networking, Programing and Linux Administration
-- 🌱 Always learning...
-- 💞️ I’m looking to collaborate on Network Security 
+- 👋 Hi, I’m Leonardo Uzcátegui (leonuz)
+- 👀 Cibersecurity, Networking, Programing and Linux Administration
+- 🌱 Always learning and Teaching
+- 💞️ Looking to collaborate on Network Security
+- 🎮 CTF Player  
 
 ![THM](https://tryhackme-badges.s3.amazonaws.com/leonuz.png)
 
