@@ -4,7 +4,7 @@
 - 💞️ Looking to collaborate on Network Security
 - 🎮 CTF Player  
 
-[TryHackMe](https://tryhackme.com) Profile Badge ID  
+[TryHackMe](https://tryhackme.com/p/leonuz) Profile Badge ID  
 
 ![TryHackMe](https://github.com/leonuz/CTFs/raw/main/img/tryhackme.png)
 
