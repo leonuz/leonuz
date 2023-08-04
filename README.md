@@ -2,7 +2,7 @@
 
 - 👋 Hi, I’m Leonardo Uzcátegui (leonuz)
 - 👀 Cibersecurity, Networking, Programing and Linux Administration
-- 🌱 Always learning and Teaching
+- 🌱 Always learning and teaching
 - 💞️ Looking to collaborate on Network Security
 - 🎮 CTF Player  
 
