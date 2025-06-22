@@ -8,7 +8,7 @@
 
 [TryHackMe](https://tryhackme.com/p/leonuz) Profile Badge ID  
 
-![TryHackMe](https://github.com/leonuz/CTFs/raw/main/img/tryhackme.png)
+![TryHackMe](<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=120697" style='border:none;'></iframe>)
 
 ## &#x1f4c8; My GitHub Stats
 <br>
