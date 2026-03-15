@@ -1,7 +1,7 @@
 ## :fire: Some things about me. 
 
-- 👋 Hi, I’m Leonardo Uzcátegui (leonuz)
-- 👀 Cibersecurity, Networking, Programing and Linux Administration
+- 👋 Hi, I'm Leonardo Uzcátegui (leonuz)
+- 👀 Cybersecurity, AI, Networking, Programing and Linux Administration
 - 🌱 Always learning and teaching
 - 💞️ Looking to collaborate on Network Security
 - 🎮 CTF Player  
